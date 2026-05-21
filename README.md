@@ -2,6 +2,14 @@
 
 Premium bilingual (English + Nepali) marketing masterclass slides.
 
+## Live presentation
+
+**https://titleshot.github.io/sheetal-marketing-slides/**
+
+Share this link with anyone — no install required. After the first deploy, the site may take 1–2 minutes to appear.
+
+Repository: **https://github.com/Titleshot/sheetal-marketing-slides**
+
 ## Slides
 
 | # | Topic |
