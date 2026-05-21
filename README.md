@@ -6,7 +6,15 @@ Premium bilingual (English + Nepali) marketing masterclass slides.
 
 **https://titleshot.github.io/sheetal-marketing-slides/**
 
-Share this link with anyone — no install required. After the first deploy, the site may take 1–2 minutes to appear.
+Share this link with anyone — no install required.
+
+**One-time setup (if you see a 404):**
+
+1. Open **https://github.com/Titleshot/sheetal-marketing-slides/settings/pages**
+2. Under **Build and deployment → Source**, choose **Deploy from a branch**
+3. Branch: **`gh-pages`** · Folder: **`/ (root)`** · Save
+4. Open **Actions** → re-run the latest **Deploy to GitHub Pages** workflow (or push any small change)
+5. Wait 1–2 minutes, then refresh the live link
 
 Repository: **https://github.com/Titleshot/sheetal-marketing-slides**
 
